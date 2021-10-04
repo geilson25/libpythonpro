@@ -12,6 +12,6 @@ pyparsing==2.4.7
 
 #Covarage
 coverage==5.5
-pytest-cov==2.12.1
+pytest-cov==3.0.0
 
 -r requirements.txt
